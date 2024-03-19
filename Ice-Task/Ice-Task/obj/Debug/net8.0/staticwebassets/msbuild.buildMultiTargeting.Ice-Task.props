@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ice-Task.props" />
+</Project>
